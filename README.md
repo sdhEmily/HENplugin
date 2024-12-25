@@ -1,4 +1,4 @@
-# PS3HEN 3.3.0
+# HENplugin
 
 MultiFW support has been added.
 [Supported Firmwares]
